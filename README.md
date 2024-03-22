@@ -1,5 +1,5 @@
 # Overview
-Asciidoc Resources
+This is a collection of resources related to Asciidoc.
 
 # Asciidoc Cheatsheets
 
