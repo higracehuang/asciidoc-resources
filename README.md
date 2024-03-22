@@ -1,5 +1,8 @@
 # Overview
-This is a collection of resources related to Asciidoc.
+This is a collection of resources related to AsciiDoc.
+
+# What is AsciiDoc?
+AsciiDoc is a lightweight markup language used for writing various types of documents, including notes, documentation, articles, books, ebooks, slideshows, web pages, blogs, and UNIX man pages.
 
 # Tools for Asciidoc
 
