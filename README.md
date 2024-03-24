@@ -16,4 +16,6 @@ AsciiDoc is a lightweight markup language used for writing various types of docu
 
 # Thanks!
 
-If you like this list and would like to show your support, here is that way that you can [buy me a coffee](https://www.buymeacoffee.com/gracehuang).
+Any questions? Find me on X at https://x.com/imgracehuang
+
+If you like this list and would like to show your support, here is that way that you can [buy me a coffee](https://www.buymeacoffee.com/gracehuang) 😊.
