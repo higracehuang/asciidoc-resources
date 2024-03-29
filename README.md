@@ -15,6 +15,10 @@ AsciiDoc is a lightweight markup language used for writing various types of docu
 - Comprehensive, with output: https://mrduguo.github.io/asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 - Quick and simple: https://gist.github.com/powerman/d56b2675dfed38deb298
 
+# Book Examples
+
+- Pro Git 2: https://github.com/progit/progit2/
+
 # Thanks!
 
 Any questions? Find me on X at https://x.com/imgracehuang
